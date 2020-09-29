@@ -1,0 +1,4 @@
+ru/sbrf/main.class
+ru/sbrf/dto/ClientDto.class
+ru/sbrf/rest/AtmClientController.class
+ru/sbrf/service/AtmClientService.class
